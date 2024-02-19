@@ -1,0 +1,33 @@
+props ->          import aur export kaerna hota hai  kisi 1 module ko kisi dusre module me bhejne ko props kehte hai jaese 
+                  ki 1 file bana li jae module1.mjs ke naam se aur 2ri file bana li jae module2.mjs ke naam se aur  wali file me kuch cost
+                  se varible defiend hai unhe module 1 me bhejne ke liye  export karna hoga export default b ,c , a anything  aur 1wali file 
+                  jake import karna hoga import something from './modul1.mjs' aur log karwake check kar sakte hai consol.og(something)
+
+
+module 1   ----->     import {a,b,c,d} from './module2.mjs'
+
+                       console.log(a,b,c,d)
+
+
+
+module 2  ------>     
+
+ const a = "asad";
+const b = "afzal";
+const c = "shameem";
+const d = "amir";
+
+export  {a,b,c,d};
+
+
+
+video 6  -->                                            make a components 
+
+src me component ko banana hai axa rahega ki kisi ek folder me banae quki agr kisi folder me banate hai to 
+cheeeze sari organized rahti hai to isi liye jab bhi Ract base components jab bhi banae tb kisi ek folder me 
+banay kare 
+
+
+
+
+       
